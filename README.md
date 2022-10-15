@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshayGadkari | Test Enthusiast
 - 👀 I’m interested in Software Testing and Exploring Automation tools 
-- 🌱 I’m currently learning and improving in Selenium, Java, Appium, RestAssured (Udemy Course- SDET Full Stack QA)
+- 🌱 I’m currently learning and improving in Selenium, Java, Appium, RestAssured (Udemy Course- SDET Full Stack QA and Yotube Channel Testing Mini Bytes)
 - 💞️ I’m looking to collaborate on challenges in Automation.
 - 📫 How to reach me ...You can Reach me on LinkedIn https://www.linkedin.com/in/akshay-gadkari-a71b2b101
 
